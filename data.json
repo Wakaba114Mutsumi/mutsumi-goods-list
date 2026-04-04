@@ -1,0 +1,48 @@
+{
+  "title": "Mutsumi DB",
+  "updatedAt": "2026.04.03",
+  "goods": [
+    {
+      "id": "mt-003",
+      "name": "测试立牌",
+      "type": "吧唧",
+      "releaseDate": "2026-04-01",
+      "eventSource": "Bushiroad Store",
+      "version": "通常版",
+      "region": "日本",
+      "isMultiCharacter": false,
+      "activityUrl": "https://example.com",
+      "size": "",
+      "description": "",
+      "imageUrl": "/images/mt-003.jpg"
+    },
+    {
+      "id": "mt-002",
+      "name": "示例：若叶睦 立牌",
+      "type": "立牌",
+      "releaseDate": "2026-03-10",
+      "eventSource": "Bushiroad Store",
+      "version": "通常版",
+      "region": "日本",
+      "isMultiCharacter": false,
+      "activityUrl": "https://example.com",
+      "size": "直径57mm",
+      "description": "把你自己的周边数据写进 public/data.json。",
+      "imageUrl": "/images/mt-002.jpg"
+    },
+    {
+      "id": "mt-001",
+      "name": "示例：若叶睦 吧唧",
+      "type": "吧唧",
+      "releaseDate": "2024-03-10",
+      "eventSource": "Bushiroad Store",
+      "version": "通常版",
+      "region": "日本",
+      "isMultiCharacter": false,
+      "activityUrl": "https://example.com",
+      "size": "直径57mm",
+      "description": "把你自己的周边数据写进 public/data.json。",
+      "imageUrl": "/images/mt-001.jpg"
+    }
+  ]
+}

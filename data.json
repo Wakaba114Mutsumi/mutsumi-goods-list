@@ -28,7 +28,7 @@
       "activityUrl": "https://www.animate-onlineshop.jp/pn/pd/3375639/",
       "size": "56mm圆形",
       "description": "别称: 上海对邦BDA店特典",
-      "imageUrl": "/images/bagage133.jpg"
+      "imageUrl": "./images/bagage133.jpg"
     },
     {
       "id": "CrossroadSHBagage4",
@@ -42,7 +42,7 @@
       "activityUrl": "https://www.gamers.co.jp/pn/pd/10866852/",
       "size": "56mm圆形",
       "description": "别称: 上海对邦BDG店特典",
-      "imageUrl": "/images/bagage134.jpg"
+      "imageUrl": "./images/bagage134.jpg"
     },
     {
       "id": "MMTBBagage",
@@ -70,7 +70,7 @@
       "activityUrl": "https://www.gamers.co.jp/pn/%E3%80%90%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%80%91BanG+Dream%21+Ave+Mujica+-manuscriptus-%283%29+%E3%82%B2%E3%83%BC%E3%83%9E%E3%83%BC%E3%82%BA%E9%99%90%E5%AE%9A%E7%89%88B%E3%80%90%E6%8F%8F%E3%81%8D%E4%B8%8B%E3%82%8D%E3%81%97%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B85%E5%80%8B%E3%82%BB%E3%83%83%E3%83%88%E4%BB%98%E3%80%91/pd/10876712/",
       "size": "56mm圆形",
       "description": "别称: Mujica漫画三卷特典吧唧 鸡漫画三卷特典吧唧 莫睦吧唧",
-      "imageUrl": "/images/bagage131.jpg"
+      "imageUrl": "./images/bagage131.jpg"
     },
     {
       "id": "ExitusBagage1",
@@ -84,7 +84,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89-%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-ave-mujica-live-tour-2026-exitus/products/2000284715957",
       "size": "56mm圆形",
       "description": "别称: 鸡巡普吧唧",
-      "imageUrl": "/images/bagage129.png"
+      "imageUrl": "./images/bagage129.png"
     },
     {
       "id": "ExitusBagage2",
@@ -98,7 +98,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89-%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC-ave-mujica-live-tour-2026-exitus/products/2000284715957",
       "size": "56mm圆形",
       "description": "别称: 鸡巡闪吧唧",
-      "imageUrl": "/images/bagage130.png"
+      "imageUrl": "./images/bagage130.png"
     },
     {
       "id": "ST3Bagage",
@@ -112,7 +112,7 @@
       "activityUrl": "https://bushiroad-creative.com/items/97875/",
       "size": "56mm圆形",
       "description": "别称: st3吧唧 女仆吧唧 女仆q吧唧",
-      "imageUrl": "/images/bagage128.jpg"
+      "imageUrl": "./images/bagage128.jpg"
     },
     {
       "id": "XZS2Bagage1",
@@ -126,7 +126,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E4%BC%9A%E5%A0%B4%E8%B2%A9%E5%A3%B2%E5%95%86%E5%93%81-%E4%BF%A1%E6%BE%A4%E5%8F%8E%E5%B1%95vol-2-bang-dream-virtual-girl/products/2000278989319",
       "size": "56mm圆形",
       "description": "别称: 信泽收展普吧唧  Masquerade普吧唧",
-      "imageUrl": "/images/bagage126.jpg"
+      "imageUrl": "./images/bagage126.jpg"
     },
     {
       "id": "XZS2Bagage2",
@@ -140,7 +140,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E4%BC%9A%E5%A0%B4%E8%B2%A9%E5%A3%B2%E5%95%86%E5%93%81-%E4%BF%A1%E6%BE%A4%E5%8F%8E%E5%B1%95vol-2-bang-dream-virtual-girl/products/2000278989319",
       "size": "56mm圆形",
       "description": "别称: 信泽收展闪吧唧  Masquerade闪吧唧",
-      "imageUrl": "/images/bagage127.jpg"
+      "imageUrl": "./images/bagage127.jpg"
     },
     {
       "id": "JRBagage1",
@@ -154,7 +154,7 @@
       "activityUrl": "https://anican.shop/items/69c6a6a39d9d4f44a75fbccb",
       "size": "57mm圆形",
       "description": "别称: JR东海普吧唧 新干线普吧唧",
-      "imageUrl": "/images/bagage124.png"
+      "imageUrl": "./images/bagage124.png"
     },
     {
       "id": "JRBagage2",
@@ -168,7 +168,7 @@
       "activityUrl": "https://anican.shop/items/69c6a6a39d9d4f44a75fbccb",
       "size": "57mm圆形",
       "description": "别称: JR东海闪吧唧 新干线闪吧唧",
-      "imageUrl": "/images/bagage123.png"
+      "imageUrl": "./images/bagage123.png"
     },
     {
       "id": "JRBagage3",
@@ -182,7 +182,7 @@
       "activityUrl": "https://anican.shop/items/69c6944e464e55bc94df4561",
       "size": "57mm圆形",
       "description": "别称: JR东海q版吧唧vol.2 新干线q版吧唧vol.2",
-      "imageUrl": "/images/bagage125.png"
+      "imageUrl": "./images/bagage125.png"
     },
     {
       "id": "ComicBagages",
@@ -196,7 +196,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/new-arrival/products/2000283088533",
       "size": "57mm圆形",
       "description": "别称: 漫画纪念吧唧",
-      "imageUrl": "/images/bagage122.jpg"
+      "imageUrl": "./images/bagage122.jpg"
     },
     {
       "id": "AniplusBagage3",
@@ -238,7 +238,7 @@
       "activityUrl": "https://amnibus.com/products/detail/114222",
       "size": "56mm圆形",
       "description": "别称: 花朵吧唧",
-      "imageUrl": "/images/bagage118.jpg"
+      "imageUrl": "./images/bagage118.jpg"
     },
     {
       "id": "BotaniaBagage2",
@@ -252,7 +252,7 @@
       "activityUrl": "https://amnibus.com/products/detail/114506",
       "size": "15.2cm圆形",
       "description": "别称: 花朵泡面吧唧 花朵大饼吧唧",
-      "imageUrl": "/images/bagage119.jpg"
+      "imageUrl": "./images/bagage119.jpg"
     },
     {
       "id": "AniArt6Bagage2",
@@ -266,7 +266,7 @@
       "activityUrl": "https://amnibus.com/products/detail/98644",
       "size": "15.2cm圆形",
       "description": "别称: 水彩大饼吧唧 水彩泡面吧唧",
-      "imageUrl": "/images/bagage117.jpg"
+      "imageUrl": "./images/bagage117.jpg"
     },
     {
       "id": "MMBagage",
@@ -280,7 +280,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-%E8%A8%98%E5%BF%B5%E8%89%B2%E7%B4%99-%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%AB%E3%83%BC%E3%83%89-mygo-ave-mujica-%E3%83%84%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96-moment-memory/products/2000269510416",
       "size": "56mm圆形",
       "description": "别称: 横K对邦2吧唧",
-      "imageUrl": "/images/bagage116.jpg"
+      "imageUrl": "./images/bagage116.jpg"
     },
     {
       "id": "GSCPlusBagage",
@@ -294,7 +294,7 @@
       "activityUrl": "https://www.goodsmile.com/zh/product/1142302/BanG+Dream+%E9%BB%8F%E5%9C%9F%E4%BA%BAPlus+%E6%94%B6%E8%97%8F%E7%B3%BB%E5%88%97%E5%BE%BD%E7%AB%A0+Ave+Mujica",
       "size": "50mm圆形",
       "description": "别称: GSC粘土人吧唧",
-      "imageUrl": "/images/bagage115.png"
+      "imageUrl": "./images/bagage115.png"
     },
     {
       "id": "BWBagage",
@@ -308,7 +308,7 @@
       "activityUrl": "https://bushiroad-creative.com/items/95304/",
       "size": "56mm圆形",
       "description": "别称: 东京抱物吧唧",
-      "imageUrl": "/images/bagage114.jpg"
+      "imageUrl": "./images/bagage114.jpg"
     },
     {
       "id": "YZBagage",
@@ -322,7 +322,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%EF%BD%94%E3%82%B7%E3%83%A3%E3%83%84-%E3%83%88%E3%83%BC%E3%83%88%E3%83%90%E3%83%83%E3%82%B0-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8-%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%8B%E3%83%A1-%E5%85%83%E7%A5%96-%E3%83%90%E3%83%B3%E3%83%89%E3%83%AA%E3%81%A1%E3%82%83%E3%82%93-pop-up-shop-in-%E3%83%96%E3%82%B7%E3%83%AD%E3%83%BC%E3%83%89%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%82%B9%E3%83%88%E3%82%A2-%E7%A7%8B%E8%91%89%E5%8E%9F%E6%9C%AC%E5%BA%97/products/2000268730341",
       "size": "56mm圆形",
       "description": "",
-      "imageUrl": "/images/bagage113.jpg"
+      "imageUrl": "./images/bagage113.jpg"
     },
     {
       "id": "CNRain1Bagage",
@@ -336,7 +336,7 @@
       "activityUrl": "https://mall.bilibili.com/neul-next/detailuniversal/detail.html?page=detailuniversal_detail&itemsId=40299076&loadingShow=1&noTitleBar=1&track_id=__BGMT__&from=&msource=cps_Mdynamic_285318902_cont-2-1186273647959998466#noReffer=true",
       "size": "70×50mm",
       "description": "别称: 雨中简中椭圆吧唧",
-      "imageUrl": "/images/bagage112.jpg"
+      "imageUrl": "./images/bagage112.jpg"
     },
     {
       "id": "UNMASQUERADEBagage",
@@ -350,7 +350,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/avemujica_talkevent_2026/products/2000267058477",
       "size": "80×40mm",
       "description": "别称: talk event名牌 UNMASQUERADE名牌",
-      "imageUrl": "/images/bagage111.jpg"
+      "imageUrl": "./images/bagage111.jpg"
     },
     {
       "id": "10thBagage2",
@@ -364,7 +364,7 @@
       "activityUrl": "https://bushiroad-creative.com/items/94769/",
       "size": "56×52mm",
       "description": "别称: 十周年心形吧唧",
-      "imageUrl": "/images/bagage110.jpg"
+      "imageUrl": "./images/bagage110.jpg"
     },
     {
       "id": "AniplusBagage1",
@@ -378,7 +378,7 @@
       "activityUrl": "https://www.aniplustv.com/storeCollaboCafe?i=101",
       "size": "58mm圆形",
       "description": "别称: 韩咖正比吧唧 韩咖吧唧",
-      "imageUrl": "/images/bagage108.jpg"
+      "imageUrl": "./images/bagage108.jpg"
     },
     {
       "id": "AniplusBagage2",
@@ -392,7 +392,7 @@
       "activityUrl": "https://www.aniplustv.com/storeCollaboCafe?i=101",
       "size": "58mm圆形",
       "description": "别称: 韩咖q吧唧 韩咖吧唧",
-      "imageUrl": "/images/bagage109.jpg"
+      "imageUrl": "./images/bagage109.jpg"
     },
     {
       "id": "3rdSingleBagage",
@@ -406,7 +406,7 @@
       "activityUrl": "https://bang-dream.com/discographies/4125/",
       "size": "57mm圆形",
       "description": "别称: 三单吧唧",
-      "imageUrl": "/images/bagage107.jpg"
+      "imageUrl": "./images/bagage107.jpg"
     },
     {
       "id": "6thLiveBagage1",
@@ -420,7 +420,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89-%E3%83%91%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B9-%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-ave-mujica-6th-live-ulterius-procedere/products/2000263745128",
       "size": "56mm圆形",
       "description": "别称: 6th普吧唧",
-      "imageUrl": "/images/bagage105.jpg"
+      "imageUrl": "./images/bagage105.jpg"
     },
     {
       "id": "6thLiveBagage2",
@@ -434,7 +434,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89-%E3%83%91%E3%82%B9%E3%82%B1%E3%83%BC%E3%82%B9-%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-ave-mujica-6th-live-ulterius-procedere/products/2000263745128",
       "size": "56mm圆形",
       "description": "别称: 6th闪吧唧",
-      "imageUrl": "/images/bagage106.jpg"
+      "imageUrl": "./images/bagage106.jpg"
     },
     {
       "id": "AniArt6Bagage1",
@@ -448,7 +448,7 @@
       "activityUrl": "https://amnibus.com/products/detail/98654",
       "size": "56mm圆形",
       "description": "别称: 水彩吧唧",
-      "imageUrl": "/images/bagage104.jpg"
+      "imageUrl": "./images/bagage104.jpg"
     },
     {
       "id": "PalVerseBagage1",
@@ -462,7 +462,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%95%86%E5%93%81-bang-dream-mygo-ave-mujica-pop-up-shop-palverse-illustration/products/2000260635132",
       "size": "56×52mm",
       "description": "别称: PalVerse心形吧唧",
-      "imageUrl": "/images/bagage102.jpg"
+      "imageUrl": "./images/bagage102.jpg"
     },
     {
       "id": "PalVerseBagage2",
@@ -476,7 +476,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89-%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB%E3%83%90%E3%83%83%E3%82%B8-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB-bang-dream-mygo-ave-mujica-pop-up-shop-palverse-illustration/products/2000260635040",
       "size": "75×55mm",
       "description": "别称: PalVerse亚克力吧唧 PalVerse名牌",
-      "imageUrl": "/images/bagage103.png"
+      "imageUrl": "./images/bagage103.png"
     },
     {
       "id": "KnightBagage1",
@@ -490,7 +490,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%95%86%E5%93%81-bang-dream-knight-ver/products/2000261081341",
       "size": "56mm圆形",
       "description": "别称: 骑士普吧唧",
-      "imageUrl": "/images/bagage98.jpg"
+      "imageUrl": "./images/bagage98.jpg"
     },
     {
       "id": "KnightBagage2",
@@ -504,7 +504,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%95%86%E5%93%81-bang-dream-knight-ver/products/2000261081341",
       "size": "56mm圆形",
       "description": "别称: 骑士闪吧唧 骑士彩窗吧唧",
-      "imageUrl": "/images/bagage99.jpg"
+      "imageUrl": "./images/bagage99.jpg"
     },
     {
       "id": "KnightBagage3",
@@ -518,7 +518,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%95%86%E5%93%81-bang-dream-knight-ver/products/2000261081334",
       "size": "75mm圆形",
       "description": "别称: 骑士大吧唧",
-      "imageUrl": "/images/bagage100.jpg"
+      "imageUrl": "./images/bagage100.jpg"
     },
     {
       "id": "KnightBagage4",
@@ -532,7 +532,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8-%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC-bang-dream-knight-ver/products/2000261081266",
       "size": "48×61mm",
       "description": "别称: 骑士椭圆吧唧",
-      "imageUrl": "/images/bagage101.png"
+      "imageUrl": "./images/bagage101.png"
     },
     {
       "id": "G11Bagage",
@@ -546,7 +546,7 @@
       "activityUrl": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7035",
       "size": "56mm圆形",
       "description": "别称:  MujicaG店特典吧唧 MujicaG店q吧唧 MujicaG店集换吧唧",
-      "imageUrl": "/images/bagage97.jpg"
+      "imageUrl": "./images/bagage97.jpg"
     },
     {
       "id": "BirthdayBagage1",
@@ -560,7 +560,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000251668873?_pos=1&_sid=6bcce1385&_ss=r",
       "size": "56mm圆形",
       "description": "别称:  2025生日远景吧唧 第一弹生日远景吧唧",
-      "imageUrl": "/images/bagage95.jpg"
+      "imageUrl": "./images/bagage95.jpg"
     },
     {
       "id": "BirthdayBagage2",
@@ -574,7 +574,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000251668873?_pos=1&_sid=6bcce1385&_ss=r",
       "size": "56mm圆形",
       "description": "别称:  2025生日近景吧唧 第一弹生日近景吧唧",
-      "imageUrl": "/images/bagage96.jpg"
+      "imageUrl": "./images/bagage96.jpg"
     },
     {
       "id": "CrossroadSHBagage1",
@@ -588,7 +588,7 @@
       "activityUrl": "https://m.weibo.cn/status/5216296243037417",
       "size": "25mm圆形",
       "description": "别称: 上海对邦迷你吧唧",
-      "imageUrl": "/images/bagage93.jpg"
+      "imageUrl": "./images/bagage93.jpg"
     },
     {
       "id": "CrossroadSHBagage2",
@@ -602,7 +602,7 @@
       "activityUrl": "https://m.weibo.cn/status/5216296243037417",
       "size": "",
       "description": "别称: 上海对邦方吧唧",
-      "imageUrl": "/images/bagage94.jpg"
+      "imageUrl": "./images/bagage94.jpg"
     },
     {
       "id": "FatiscriptumBagage",
@@ -616,7 +616,7 @@
       "activityUrl": "https://www.gamers.co.jp/products/detail.php?product_id=10815799",
       "size": "56mm圆形",
       "description": "别称: 设定集吧唧 公式书吧唧",
-      "imageUrl": "/images/bagage83.jpg"
+      "imageUrl": "./images/bagage83.jpg"
     },
     {
       "id": "Manuscriptus2Bagage",
@@ -630,7 +630,7 @@
       "activityUrl": "https://www.gamers.co.jp/pd/10819482/",
       "size": "56mm圆形",
       "description": "别称: Mujica漫画二卷特典吧唧 鸡漫画二卷特典吧唧 莫睦吧唧",
-      "imageUrl": "/images/bagage92.jpg"
+      "imageUrl": "./images/bagage92.jpg"
     },
     {
       "id": "ArknightsBagage1",
@@ -644,7 +644,7 @@
       "activityUrl": "https://shop.yostar.co.jp/products/detail/4196",
       "size": "75mm圆形",
       "description": "别称: 方舟联动大吧唧 方舟联动皮肤吧唧",
-      "imageUrl": "/images/bagage89.jpg"
+      "imageUrl": "./images/bagage89.jpg"
     },
     {
       "id": "ArknightsBagage2",
@@ -658,7 +658,7 @@
       "activityUrl": "https://shop.yostar.co.jp/products/detail/4180",
       "size": "58mm圆形",
       "description": "别称: 方舟联动普吧唧 方舟联动精一吧唧 方舟联动校服吧唧 方舟联动吧唧组",
-      "imageUrl": "/images/bagage90.png"
+      "imageUrl": "./images/bagage90.png"
     },
     {
       "id": "ArknightsBagage3",
@@ -672,7 +672,7 @@
       "activityUrl": "https://shop.yostar.co.jp/products/detail/4180",
       "size": "58mm圆形",
       "description": "别称: 方舟联动闪吧唧 方舟联动精二吧唧 方舟联动演出服吧唧 方舟联动吧唧组",
-      "imageUrl": "/images/bagage91.png"
+      "imageUrl": "./images/bagage91.png"
     },
     {
       "id": "ASL2025Bagage",
@@ -686,7 +686,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000250125773",
       "size": "56mm圆形",
       "description": "别称: 2025ASL吧唧 场面写吧唧",
-      "imageUrl": "/images/bagage88.jpg"
+      "imageUrl": "./images/bagage88.jpg"
     },
     {
       "id": "DVBagage1",
@@ -700,7 +700,7 @@
       "activityUrl": "https://edith.co.jp/lp/bangdreamvacation/",
       "size": "56mm圆形",
       "description": "别称: dvq吧唧 dv吧唧",
-      "imageUrl": "/images/bagage86.jpg"
+      "imageUrl": "./images/bagage86.jpg"
     },
     {
       "id": "DVBagage2",
@@ -714,7 +714,7 @@
       "activityUrl": "https://edith.co.jp/lp/bangdreamvacation/",
       "size": "56mm圆形",
       "description": "别称: dv正比吧唧 dv吧唧",
-      "imageUrl": "/images/bagage87.jpg"
+      "imageUrl": "./images/bagage87.jpg"
     },
     {
       "id": "MRBagage",
@@ -728,7 +728,7 @@
       "activityUrl": "https://prize.bushiroad-creative.com/product/8552/",
       "size": "80mm圆形",
       "description": "",
-      "imageUrl": "/images/bagage85.jpg"
+      "imageUrl": "./images/bagage85.jpg"
     },
     {
       "id": "BOS4rdBagage",
@@ -742,7 +742,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/mygo-bos4rd/products/2000247234105",
       "size": "56mm圆形",
       "description": "别称: 四周年吧唧 剪刀手吧唧",
-      "imageUrl": "/images/bagage84.jpg"
+      "imageUrl": "./images/bagage84.jpg"
     },
     {
       "id": "SymphonyBagage1",
@@ -756,7 +756,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/bd-symphony-badge/products/2000264724269",
       "size": "56mm圆形",
       "description": "别称: 交响曲普吧唧",
-      "imageUrl": "/images/bagage79.jpg"
+      "imageUrl": "./images/bagage79.jpg"
     },
     {
       "id": "SymphonyBagage2",
@@ -770,7 +770,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/bd-symphony-badge/products/2000264724269",
       "size": "56mm圆形",
       "description": "别称: 交响曲闪吧唧",
-      "imageUrl": "/images/bagage80.jpg"
+      "imageUrl": "./images/bagage80.jpg"
     },
     {
       "id": "SymphonyBagage3",
@@ -784,7 +784,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/bd-symphony-badge/products/2000264724245",
       "size": "75mm圆形",
       "description": "别称: 交响曲大吧唧",
-      "imageUrl": "/images/bagage81.jpg"
+      "imageUrl": "./images/bagage81.jpg"
     },
     {
       "id": "SymphonyBagage4",
@@ -798,7 +798,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/bd-symphony-badge/products/2000264724276",
       "size": "53×78mm",
       "description": "别称: 交响曲方吧唧",
-      "imageUrl": "/images/bagage82.jpg"
+      "imageUrl": "./images/bagage82.jpg"
     },
     {
       "id": "XZSBagage",
@@ -812,7 +812,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/bang-dream-%E8%A8%98%E5%BF%B5art-ver-%E4%BF%A1%E6%BE%A4%E5%8F%8E%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E5%B1%95-bang-dream-virtual-girl/products/2000240823597",
       "size": "56mm圆形",
       "description": "",
-      "imageUrl": "/images/bagage78.jpg"
+      "imageUrl": "./images/bagage78.jpg"
     },
     {
       "id": "5thLiveBagage1",
@@ -826,7 +826,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/ave-mujica/products/2000240280284",
       "size": "56mm圆形",
       "description": "别称: 5th普吧唧",
-      "imageUrl": "/images/bagage75.jpg"
+      "imageUrl": "./images/bagage75.jpg"
     },
     {
       "id": "5thLiveBagage2",
@@ -840,7 +840,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/ave-mujica/products/2000240280284",
       "size": "56mm圆形",
       "description": "别称: 5th闪吧唧",
-      "imageUrl": "/images/bagage76.jpg"
+      "imageUrl": "./images/bagage76.jpg"
     },
     {
       "id": "5thLiveBagage3",
@@ -854,7 +854,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000240280321",
       "size": "56mm圆形",
       "description": "别称: 5th单人set吧唧 5th纪念吧唧",
-      "imageUrl": "/images/bagage77.jpg"
+      "imageUrl": "./images/bagage77.jpg"
     },
     {
       "id": "5thLiveBagage4",
@@ -868,7 +868,7 @@
       "activityUrl": "https://bang-dream.com/events/avemujica_5th/",
       "size": "",
       "description": "别称: 5th场贩扭蛋吧唧 胸针",
-      "imageUrl": "/images/bagage35.png"
+      "imageUrl": "./images/bagage35.png"
     },
     {
       "id": "5thLiveBagage5",
@@ -882,7 +882,7 @@
       "activityUrl": "https://bang-dream.com/events/avemujica_5th/",
       "size": "",
       "description": "别称: 5th场贩扭蛋吧唧 胸针",
-      "imageUrl": "/images/bagage135.png"
+      "imageUrl": "./images/bagage135.png"
     },
     {
       "id": "JHMBagage1",
@@ -896,7 +896,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/bd_nishikihanayume/products/2000238079234",
       "size": "56mm圆形",
       "description": "别称: 锦花梦普吧唧",
-      "imageUrl": "/images/bagage72.jpg"
+      "imageUrl": "./images/bagage72.jpg"
     },
     {
       "id": "JHMBagage2",
@@ -910,7 +910,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/bd_nishikihanayume/products/2000238079234",
       "size": "56mm圆形",
       "description": "别称: 锦花梦闪吧唧",
-      "imageUrl": "/images/bagage73.jpg"
+      "imageUrl": "./images/bagage73.jpg"
     },
     {
       "id": "JHMBagage3",
@@ -924,7 +924,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/bd_nishikihanayume/products/2000238079173",
       "size": "48×61mm",
       "description": "别称: 锦花梦椭圆吧唧",
-      "imageUrl": "/images/bagage74.jpg"
+      "imageUrl": "./images/bagage74.jpg"
     },
     {
       "id": "WegoBagage1",
@@ -938,7 +938,7 @@
       "activityUrl": "https://wego.jp/blogs/news/avemujica_wego",
       "size": "56mm圆形",
       "description": "别称: wego普吧唧",
-      "imageUrl": "/images/bagage70.jpg"
+      "imageUrl": "./images/bagage70.jpg"
     },
     {
       "id": "WegoBagage2",
@@ -952,7 +952,7 @@
       "activityUrl": "https://wego.jp/blogs/news/avemujica_wego",
       "size": "56mm圆形",
       "description": "别称: wego闪吧唧",
-      "imageUrl": "/images/bagage71.jpg"
+      "imageUrl": "./images/bagage71.jpg"
     },
     {
       "id": "TVBDBagage1",
@@ -966,7 +966,7 @@
       "activityUrl": "https://bang-dream.com/discographies/4023/",
       "size": "57mm圆形",
       "description": "别称: 动画bd上卷碟特",
-      "imageUrl": "/images/bagage68.jpg"
+      "imageUrl": "./images/bagage68.jpg"
     },
     {
       "id": "TVBDBagage2",
@@ -980,7 +980,7 @@
       "activityUrl": "https://bang-dream.com/discographies/4024/",
       "size": "57mm圆形",
       "description": "别称: 动画bd下卷碟特",
-      "imageUrl": "/images/bagage69.jpg"
+      "imageUrl": "./images/bagage69.jpg"
     },
     {
       "id": "Gigo2025Bagage2",
@@ -994,7 +994,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000223242940",
       "size": "56mm圆形",
       "description": "别称: gigo普吧唧 gigo无面具吧唧",
-      "imageUrl": "/images/bagage66.jpg"
+      "imageUrl": "./images/bagage66.jpg"
     },
     {
       "id": "Gigo2025Bagage3",
@@ -1008,7 +1008,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000223242940",
       "size": "56mm圆形",
       "description": "别称: gigo闪吧唧 gigo面具吧唧",
-      "imageUrl": "/images/bagage67.jpg"
+      "imageUrl": "./images/bagage67.jpg"
     },
     {
       "id": "SPBagage",
@@ -1022,7 +1022,7 @@
       "activityUrl": "https://www.sweets-paradise.jp/collaboration/bang-drea10th",
       "size": "56mm圆形",
       "description": "别称: 甜品天堂吧唧",
-      "imageUrl": "/images/bagage65.jpg"
+      "imageUrl": "./images/bagage65.jpg"
     },
     {
       "id": "JPRain1Bagage",
@@ -1036,7 +1036,7 @@
       "activityUrl": "https://bushiroad-works.com/benefits/3637/",
       "size": "56mm圆形",
       "description": "别称: 雨中吧唧 雨中ccc吧唧",
-      "imageUrl": "/images/bagage64.jpg"
+      "imageUrl": "./images/bagage64.jpg"
     },
     {
       "id": "10thBagage1",
@@ -1050,7 +1050,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000224543657",
       "size": "56mm圆形",
       "description": "别称: 十周年吧唧",
-      "imageUrl": "/images/bagage62.jpg"
+      "imageUrl": "./images/bagage62.jpg"
     },
     {
       "id": "MujicaacafeBagage1",
@@ -1064,7 +1064,7 @@
       "activityUrl": "https://weibo.com/6596632265/PnxthaGFU",
       "size": "56mm圆形",
       "description": "别称: Mujicaa咖正比吧唧 Mujicaa咖吧唧",
-      "imageUrl": "/images/bagage60.jpg"
+      "imageUrl": "./images/bagage60.jpg"
     },
     {
       "id": "MujicaacafeBagage2",
@@ -1078,7 +1078,7 @@
       "activityUrl": "https://weibo.com/6596632265/PnxthaGFU",
       "size": "56mm圆形",
       "description": "别称: Mujicaa咖q吧唧 Mujicaa咖吧唧",
-      "imageUrl": "/images/bagage61.jpg"
+      "imageUrl": "./images/bagage61.jpg"
     },
     {
       "id": "CrossroadBagage5",
@@ -1092,7 +1092,7 @@
       "activityUrl": "https://bang-dream.com/events/mygo-avemujica2025/",
       "size": "56mm圆形",
       "description": "别称: 台词吧唧 对邦场贩扭蛋吧唧",
-      "imageUrl": "/images/bagage59.jpg"
+      "imageUrl": "./images/bagage59.jpg"
     },
     {
       "id": "Gigo2025Bagage1",
@@ -1106,7 +1106,7 @@
       "activityUrl": "https://tempo.gendagigo.jp/cp25/bang-dream_mygo-avemujica/",
       "size": "75mm圆形",
       "description": "别称: gigo大饼 gigo娃娃机大饼",
-      "imageUrl": "/images/bagage58.jpg"
+      "imageUrl": "./images/bagage58.jpg"
     },
     {
       "id": "CompletnessBagage",
@@ -1120,7 +1120,7 @@
       "activityUrl": "https://bang-dream.com/discographies/4025/",
       "size": "57mm圆形",
       "description": "别称: 一专吧唧",
-      "imageUrl": "/images/bagage57.jpg"
+      "imageUrl": "./images/bagage57.jpg"
     },
     {
       "id": "CollabExBagage1",
@@ -1134,7 +1134,7 @@
       "activityUrl": "https://tokyoanimecenter.jp/event/anime_mygo-avemujica_osaka_exh/",
       "size": "56mm圆形",
       "description": "别称: 合同展普吧唧 企划展普吧唧",
-      "imageUrl": "/images/bagage55.jpg"
+      "imageUrl": "./images/bagage55.jpg"
     },
     {
       "id": "CollabExBagage2",
@@ -1148,7 +1148,7 @@
       "activityUrl": "https://tokyoanimecenter.jp/event/anime_mygo-avemujica_osaka_exh/",
       "size": "56mm圆形",
       "description": "别称: 合同展闪吧唧 企划展闪吧唧",
-      "imageUrl": "/images/bagage56.jpg"
+      "imageUrl": "./images/bagage56.jpg"
     },
     {
       "id": "JPLawsonBagage",
@@ -1162,7 +1162,7 @@
       "activityUrl": "https://www.lawson.co.jp/campaign/lop_bangdream_mygoavemujica/",
       "size": "57mm圆形",
       "description": "别称: 日本罗森联动吧唧",
-      "imageUrl": "/images/bagage54.jpg"
+      "imageUrl": "./images/bagage54.jpg"
     },
     {
       "id": "ONKYOBagage",
@@ -1176,7 +1176,7 @@
       "activityUrl": "https://onkyodirect.jp/shop/g/gMO1_CGBDCB07/",
       "size": "56mm圆形",
       "description": "别称: 耳机联动吧唧",
-      "imageUrl": "/images/bagage53.jpg"
+      "imageUrl": "./images/bagage53.jpg"
     },
     {
       "id": "PTNJBagage",
@@ -1190,7 +1190,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000206776752",
       "size": "56mm圆形",
       "description": "别称: 发条人偶q吧唧",
-      "imageUrl": "/images/bagage52.jpg"
+      "imageUrl": "./images/bagage52.jpg"
     },
     {
       "id": "AJ2025Bagage1",
@@ -1204,7 +1204,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000219274702",
       "size": "56mm圆形",
       "description": "别称: 玉座光栅吧唧\n注: AJ2025Bagage1与AJ2025Bagage2为同一光栅吧唧不同角度",
-      "imageUrl": "/images/bagage50.jpg"
+      "imageUrl": "./images/bagage50.jpg"
     },
     {
       "id": "AJ2025Bagage2",
@@ -1218,7 +1218,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000219274702",
       "size": "56mm圆形",
       "description": "别称: 玉座光栅吧唧\n注: AJ2025Bagage1与AJ2025Bagage2为同一光栅吧唧不同角度",
-      "imageUrl": "/images/bagage51.jpg"
+      "imageUrl": "./images/bagage51.jpg"
     },
     {
       "id": "CrossroadBagage1",
@@ -1232,7 +1232,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000221000504",
       "size": "56mm圆形",
       "description": "别称: 对邦普吧唧",
-      "imageUrl": "/images/bagage46.jpg"
+      "imageUrl": "./images/bagage46.jpg"
     },
     {
       "id": "CrossroadBagage2",
@@ -1246,7 +1246,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000221000504",
       "size": "56mm圆形",
       "description": "别称: 对邦闪吧唧",
-      "imageUrl": "/images/bagage47.jpg"
+      "imageUrl": "./images/bagage47.jpg"
     },
     {
       "id": "CrossroadBagage3",
@@ -1260,7 +1260,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E5%85%B1%E9%80%9A%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0-mygo-ave-mujica-%E5%90%88%E5%90%8C%E3%83%A9%E3%82%A4%E3%83%96-%E3%82%8F%E3%81%8B%E3%82%8C%E9%81%93%E3%81%AE-%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8/products/2000221000795",
       "size": "56mm圆形",
       "description": "别称: 对邦单人set吧唧 对邦烫金吧唧 对邦纪念吧唧",
-      "imageUrl": "/images/bagage48.png"
+      "imageUrl": "./images/bagage48.png"
     },
     {
       "id": "CrossroadBagage4",
@@ -1274,7 +1274,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/mygo-ave-mujica0426/products/2000221000511",
       "size": "56mm圆形",
       "description": "别称: 对邦CRYCHIC吧唧 对邦CCC吧唧",
-      "imageUrl": "/images/bagage49.jpg"
+      "imageUrl": "./images/bagage49.jpg"
     },
     {
       "id": "CV1Bagage1",
@@ -1288,7 +1288,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%82%B0%E3%83%83%E3%82%BA-mygo-ave-mujica-%E5%90%88%E5%90%8C%E3%83%A9%E3%82%A4%E3%83%96-%E3%82%8F%E3%81%8B%E3%82%8C%E9%81%93%E3%81%AE-%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8/products/2000221000207",
       "size": "56mm圆形",
       "description": "别称: 对邦声优吧唧 对邦节约吧唧",
-      "imageUrl": "/images/bagage43.png"
+      "imageUrl": "./images/bagage43.png"
     },
     {
       "id": "CV1Bagage2",
@@ -1302,7 +1302,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%82%B0%E3%83%83%E3%82%BA-mygo-ave-mujica-%E5%90%88%E5%90%8C%E3%83%A9%E3%82%A4%E3%83%96-%E3%82%8F%E3%81%8B%E3%82%8C%E9%81%93%E3%81%AE-%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8/products/2000221000207",
       "size": "56mm圆形",
       "description": "别称: 对邦声优吧唧 对邦节约吧唧",
-      "imageUrl": "/images/bagage44.png"
+      "imageUrl": "./images/bagage44.png"
     },
     {
       "id": "CV1Bagage3",
@@ -1316,7 +1316,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%82%B0%E3%83%83%E3%82%BA-mygo-ave-mujica-%E5%90%88%E5%90%8C%E3%83%A9%E3%82%A4%E3%83%96-%E3%82%8F%E3%81%8B%E3%82%8C%E9%81%93%E3%81%AE-%E3%81%9D%E3%81%AE%E5%85%88%E3%81%B8/products/2000221000207",
       "size": "56mm圆形",
       "description": "别称: 对邦声优吧唧 对邦节约吧唧",
-      "imageUrl": "/images/bagage45.png"
+      "imageUrl": "./images/bagage45.png"
     },
     {
       "id": "SOF2025Bagage",
@@ -1330,7 +1330,7 @@
       "activityUrl": "链接已失效",
       "size": "56mm圆形",
       "description": "别称: 春活吧唧 春推吧唧 春日推活吧唧",
-      "imageUrl": "/images/bagage42.jpg"
+      "imageUrl": "./images/bagage42.jpg"
     },
     {
       "id": "BMGXBagage1",
@@ -1344,7 +1344,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000216381700",
       "size": "56mm圆形",
       "description": "别称: 薄明光线普吧唧",
-      "imageUrl": "/images/bagage37.jpg"
+      "imageUrl": "./images/bagage37.jpg"
     },
     {
       "id": "BMGXBagage2",
@@ -1358,7 +1358,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000216381700",
       "size": "56mm圆形",
       "description": "别称: 薄明光线闪吧唧",
-      "imageUrl": "/images/bagage38.jpg"
+      "imageUrl": "./images/bagage38.jpg"
     },
     {
       "id": "BMGXBagage3",
@@ -1372,7 +1372,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000216381700",
       "size": "75mm圆形",
       "description": "别称: 薄明光线大饼",
-      "imageUrl": "/images/bagage39.jpg"
+      "imageUrl": "./images/bagage39.jpg"
     },
     {
       "id": "BMGXBagage4",
@@ -1386,7 +1386,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000216381717",
       "size": "45×71mm",
       "description": "别称: 薄明光线普方吧唧",
-      "imageUrl": "/images/bagage40.jpg"
+      "imageUrl": "./images/bagage40.jpg"
     },
     {
       "id": "BMGXBagage5",
@@ -1400,7 +1400,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000216381717",
       "size": "45×71mm",
       "description": "别称: 薄明光线烫金方吧唧 薄明光线闪方吧唧",
-      "imageUrl": "/images/bagage41.png"
+      "imageUrl": "./images/bagage41.png"
     },
     {
       "id": "IKEBUKUROBagage1",
@@ -1414,7 +1414,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000220586276",
       "size": "56mm圆形",
       "description": "别称: 常服吧唧 池袋普吧唧 池袋快闪普吧唧",
-      "imageUrl": "/images/bagage136.jpg"
+      "imageUrl": "./images/bagage136.jpg"
     },
     {
       "id": "IKEBUKUROBagage2",
@@ -1428,7 +1428,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000220586276",
       "size": "56mm圆形",
       "description": "别称: 红底演出服吧唧 池袋闪吧唧 池袋快闪闪吧唧",
-      "imageUrl": "/images/bagage63.jpg"
+      "imageUrl": "./images/bagage63.jpg"
     },
     {
       "id": "Senbitoro2",
@@ -1442,7 +1442,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000210125973",
       "size": "56mm圆形",
       "description": "别称: 鲜美闪吧唧",
-      "imageUrl": "/images/bagage34.jpg"
+      "imageUrl": "./images/bagage34.jpg"
     },
     {
       "id": "SenbitoroBagage1",
@@ -1456,7 +1456,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000210125973",
       "size": "56mm圆形",
       "description": "别称: 鲜美普吧唧",
-      "imageUrl": "/images/bagage32.jpg"
+      "imageUrl": "./images/bagage32.jpg"
     },
     {
       "id": "SenbitoroBagage3",
@@ -1470,7 +1470,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000210126024",
       "size": "75mm圆形",
       "description": "别称: 鲜美大饼",
-      "imageUrl": "/images/bagage34.jpg"
+      "imageUrl": "./images/bagage34.jpg"
     },
     {
       "id": "SenbitoroBagage4",
@@ -1484,7 +1484,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000210126017",
       "size": "53×78mm",
       "description": "别称: 鲜美方吧唧",
-      "imageUrl": "/images/bagage36.jpg"
+      "imageUrl": "./images/bagage36.jpg"
     },
     {
       "id": "Manuscriptus1Bagage",
@@ -1498,7 +1498,7 @@
       "activityUrl": "https://bushiroad-works.com/benefits/2977/",
       "size": "56mm圆形",
       "description": "别称: Mujica漫画一卷特典吧唧 鸡漫画一卷特典吧唧",
-      "imageUrl": "/images/bagage31.jpg"
+      "imageUrl": "./images/bagage31.jpg"
     },
     {
       "id": "AMqBagage",
@@ -1512,7 +1512,7 @@
       "activityUrl": "https://bushiroad-store.com/collections/mygo/products/2000198385420",
       "size": "56mm圆形",
       "description": "别称: 虹光q吧唧",
-      "imageUrl": "/images/bagage30.jpg"
+      "imageUrl": "./images/bagage30.jpg"
     },
     {
       "id": "DualitasBagage",
@@ -1526,7 +1526,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000205943377",
       "size": "53×78mm",
       "description": "别称: KK方吧唧 塔罗牌方吧唧",
-      "imageUrl": "/images/bagage21.jpg"
+      "imageUrl": "./images/bagage21.jpg"
     },
     {
       "id": "EDBagage1",
@@ -1540,7 +1540,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000205943438",
       "size": "56mm圆形",
       "description": "别称: ED普吧唧 ED远景吧唧",
-      "imageUrl": "/images/bagage23.jpg"
+      "imageUrl": "./images/bagage23.jpg"
     },
     {
       "id": "EDBagage2",
@@ -1554,7 +1554,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000205943438",
       "size": "56mm圆形",
       "description": "别称: ED闪吧唧 ED烫金吧唧 ED近景吧唧 ED大头吧唧",
-      "imageUrl": "/images/bagage22.jpg"
+      "imageUrl": "./images/bagage22.jpg"
     },
     {
       "id": "OPBagage1",
@@ -1568,7 +1568,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000205943315",
       "size": "56mm圆形",
       "description": "别称: OP吧唧",
-      "imageUrl": "/images/bagage24.jpg"
+      "imageUrl": "./images/bagage24.jpg"
     },
     {
       "id": "OPBagage2",
@@ -1582,7 +1582,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000205943315",
       "size": "56mm圆形",
       "description": "别称: OP闪吧唧",
-      "imageUrl": "/images/bagage25.jpg"
+      "imageUrl": "./images/bagage25.jpg"
     },
     {
       "id": "KILLKISSBagage",
@@ -1596,7 +1596,7 @@
       "activityUrl": "https://bang-dream.com/discographies/3885/",
       "size": "57mm圆形",
       "description": "别称: KK碟特吧唧",
-      "imageUrl": "/images/bagage20.jpg"
+      "imageUrl": "./images/bagage20.jpg"
     },
     {
       "id": "HRJKBagage1",
@@ -1610,7 +1610,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000206646802",
       "size": "56mm圆形",
       "description": "别称: 原宿快闪人偶普吧唧",
-      "imageUrl": "/images/bagage26.jpg"
+      "imageUrl": "./images/bagage26.jpg"
     },
     {
       "id": "HRJKBagage2",
@@ -1624,7 +1624,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000206646802",
       "size": "56mm圆形",
       "description": "别称: 原宿快闪人偶闪吧唧",
-      "imageUrl": "/images/bagage27.jpg"
+      "imageUrl": "./images/bagage27.jpg"
     },
     {
       "id": "HRJKBagage3",
@@ -1638,7 +1638,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000206646963",
       "size": "56mm圆形",
       "description": "别称: 原宿快闪晨昏普吧唧 原宿快闪黄昏普吧唧",
-      "imageUrl": "/images/bagage28.jpg"
+      "imageUrl": "./images/bagage28.jpg"
     },
     {
       "id": "HRJKBagage4",
@@ -1652,7 +1652,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000206646963",
       "size": "56mm圆形",
       "description": "别称: 原宿快闪晨昏闪吧唧 原宿快闪黄昏闪吧唧",
-      "imageUrl": "/images/bagage29.jpg"
+      "imageUrl": "./images/bagage29.jpg"
     },
     {
       "id": "CNLawsonBagagen",
@@ -1666,7 +1666,7 @@
       "activityUrl": "https://m.weibo.cn/status/5106092579488282",
       "size": "58mm圆形",
       "description": "别称: 中国罗森正比吧唧",
-      "imageUrl": "/images/bagage19.jpg"
+      "imageUrl": "./images/bagage19.jpg"
     },
     {
       "id": "CNLawsonBagageq",
@@ -1680,7 +1680,7 @@
       "activityUrl": "https://m.weibo.cn/status/5106092579488282",
       "size": "30mm圆形",
       "description": "别称: 中国罗森q吧唧 中国罗森迷你吧唧",
-      "imageUrl": "/images/bagage18.jpg"
+      "imageUrl": "./images/bagage18.jpg"
     },
     {
       "id": "YuzaBagage1",
@@ -1694,7 +1694,7 @@
       "activityUrl": "https://bushiroad-creative.com/items/82346/",
       "size": "56mm圆形",
       "description": "别称: 玉座普吧唧",
-      "imageUrl": "/images/bagage14.jpg"
+      "imageUrl": "./images/bagage14.jpg"
     },
     {
       "id": "YuzaBagage2",
@@ -1708,7 +1708,7 @@
       "activityUrl": "https://bushiroad-creative.com/items/82346/",
       "size": "56mm圆形",
       "description": "别称: 玉座闪吧唧",
-      "imageUrl": "/images/bagage15.jpg"
+      "imageUrl": "./images/bagage15.jpg"
     },
     {
       "id": "YuzaBagage3",
@@ -1722,7 +1722,7 @@
       "activityUrl": "https://bushiroad-creative.com/items/82345/",
       "size": "56mm圆形",
       "description": "别称: 玉座细闪吧唧",
-      "imageUrl": "/images/bagage16.jpg"
+      "imageUrl": "./images/bagage16.jpg"
     },
     {
       "id": "YuzaBagage4",
@@ -1736,7 +1736,7 @@
       "activityUrl": "https://bushiroad-creative.com/items/82344/",
       "size": "56mm圆形",
       "description": "别称: 玉座烫金吧唧",
-      "imageUrl": "/images/bagage17.jpg"
+      "imageUrl": "./images/bagage17.jpg"
     },
     {
       "id": "4thBagage2",
@@ -1750,7 +1750,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000198662354",
       "size": "56mm圆形",
       "description": "别称: 4th闪吧唧",
-      "imageUrl": "/images/bagage12.jpg"
+      "imageUrl": "./images/bagage12.jpg"
     },
     {
       "id": "4thLiveBagage1",
@@ -1764,7 +1764,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000198662354",
       "size": "56mm圆形",
       "description": "别称: 4th普吧唧",
-      "imageUrl": "/images/bagage11.jpg"
+      "imageUrl": "./images/bagage11.jpg"
     },
     {
       "id": "4thLiveBagage3",
@@ -1778,7 +1778,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000198662361",
       "size": "56mm圆形",
       "description": "别称: 4th哑光吧唧",
-      "imageUrl": "/images/bagage13.jpg"
+      "imageUrl": "./images/bagage13.jpg"
     },
     {
       "id": "ELEMENTSBagage",
@@ -1792,7 +1792,7 @@
       "activityUrl": "https://bang-dream.com/discographies/3832/",
       "size": "57mm圆形",
       "description": "别称: 元素专吧唧",
-      "imageUrl": "/images/bagage10.jpg"
+      "imageUrl": "./images/bagage10.jpg"
     },
     {
       "id": "3rdLiveBagage1",
@@ -1806,7 +1806,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000191484564",
       "size": "56mm圆形",
       "description": "别称: 3rd普吧唧",
-      "imageUrl": "/images/bagage6.png"
+      "imageUrl": "./images/bagage6.png"
     },
     {
       "id": "3rdLiveBagage2",
@@ -1820,7 +1820,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000191484564",
       "size": "56mm圆形",
       "description": "别称: 3rd彩吧唧 3rd彩窗吧唧",
-      "imageUrl": "/images/bagage7.png"
+      "imageUrl": "./images/bagage7.png"
     },
     {
       "id": "3rdLiveBagage3",
@@ -1834,7 +1834,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000191484694",
       "size": "56mm圆形",
       "description": "别称: 3rd月相吧唧",
-      "imageUrl": "/images/bagage8.png"
+      "imageUrl": "./images/bagage8.png"
     },
     {
       "id": "3rdLiveBagage4",
@@ -1848,7 +1848,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000191484700",
       "size": "56mm圆形",
       "description": "别称: 3rd烫金吧唧",
-      "imageUrl": "/images/bagage9.jpg"
+      "imageUrl": "./images/bagage9.jpg"
     },
     {
       "id": "MyGoacafeBagage",
@@ -1862,7 +1862,7 @@
       "activityUrl": "https://weibo.com/6596632265/OmTTmgEed",
       "size": "58mm圆形",
       "description": "别称: MyGoA咖吧唧 MyGoA咖q 24年A咖吧唧",
-      "imageUrl": "/images/bagage5.jpg"
+      "imageUrl": "./images/bagage5.jpg"
     },
     {
       "id": "2ndLiveBagage1",
@@ -1876,7 +1876,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000176624626",
       "size": "56mm圆形",
       "description": "别称: 2nd普吧唧",
-      "imageUrl": "/images/bagage3.jpg"
+      "imageUrl": "./images/bagage3.jpg"
     },
     {
       "id": "2ndLiveBagage2",
@@ -1890,7 +1890,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000176624626",
       "size": "56mm圆形",
       "description": "别称: 2nd闪吧唧",
-      "imageUrl": "/images/bagage4.jpg"
+      "imageUrl": "./images/bagage4.jpg"
     },
     {
       "id": "1stLiveBagage",
@@ -1904,7 +1904,7 @@
       "activityUrl": "https://bushiroad-store.com/products/2000162256497",
       "size": "56mm圆形",
       "description": "别称: 1st吧唧",
-      "imageUrl": "/images/bagage2.jpg"
+      "imageUrl": "./images/bagage2.jpg"
     },
     {
       "id": "AleaJactaEstBagage",
@@ -1918,7 +1918,7 @@
       "activityUrl": "https://bang-dream.com/discographies/3376/",
       "size": "57mm圆形",
       "description": "别称: 黑生吧唧",
-      "imageUrl": "/images/bagage1.jpg"
+      "imageUrl": "./images/bagage1.jpg"
     }
   ]
 }
